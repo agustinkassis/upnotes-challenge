@@ -1,0 +1,29 @@
+[{
+    "name": "Buenos Aires",
+    "coords": [-34.61, -58.57]
+  },
+  {
+    "name": "Rome",
+    "coords": [41.89, 12.51]
+  },
+  {
+    "name": "Chicago",
+    "coords": [41.74, -87.55]
+  },
+  {
+    "name": "San Francisco",
+    "coords": [37.77, -122.42]
+  },
+  {
+    "name": "Athens",
+    "coords": [37.98, 23.73]
+  },
+  {
+    "name": "Toronto",
+    "coords": [43.67, -79.42]
+  },
+  {
+    "name": "Toulouse",
+    "coords": [43.60, 1.44]
+  }
+]
